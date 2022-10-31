@@ -1,0 +1,9 @@
+[submodule "twotyred-lucky"]
+	path = twotyred-lucky
+	url = https://github.com/SWE-Fantastic-Four/twotyred-lucky.git
+[submodule "twotyred-frontend"]
+	path = twotyred-frontend
+	url = https://github.com/SWE-Fantastic-Four/twotyred-frontend.git
+[submodule "twotyred-backend"]
+	path = twotyred-backend
+	url = https://github.com/SWE-Fantastic-Four/twotyred-backend.git
