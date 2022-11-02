@@ -37,7 +37,7 @@ Application Backend System | [twotyred-backend/server.js](twotyred-backend/serve
 Route Planning System | [twotyred-backend/server.js](twotyred-backend/server.js)
 Route Factory | [twotyred-backend/server.js](twotyred-backend/server.js)
 Environmental Factors Facade | [twotyred-backend/server.js](twotyred-backend/server.js)
-Route Information Subject | [twotyred-backend/server.js](twotyred-backend/server.js)
+Route Information | [twotyred-backend/server.js](twotyred-backend/server.js)
 Password Reset | [twotyred-frontend/src/views/login/ResetCard.jsx](twotyred-frontend/src/views/login/ResetCard.jsx)
 Log In | [twotyred-frontend/src/views/login/SignInCard.jsx](frontend/src/views/login/SignInCard.jsx)
 Sign Up | [twotyred-frontend/src/views/login/RegistrationCard.jsx](twotyred-frontend/src/views/login/RegistrationCard.jsx)
