@@ -2,7 +2,7 @@
 The TwoTyred Application was built as part of the SC2006 Software Engineering Module in Nanyang Technological University.
 
 ### About
-The TwoTyred Applications serves as an automatic cycling route planner in Singapore.
+The TwoTyred Application serves as an automatic cycling route planner in Singapore.
 
 Create your very own routes by customising your route points, or even try out the I'm Feeling Lucky feature by automically generating a route using the route start point and distance. 
 
